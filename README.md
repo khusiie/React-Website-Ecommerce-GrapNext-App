@@ -6,7 +6,7 @@
 ## 📌 Live Demo
 
 
-[![Netlify Status]()
+https://app.netlify.com/projects/grabnext1/deploys
 
 ## 😎 Features
 
