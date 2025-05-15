@@ -6,7 +6,7 @@
 ## 📌 Live Demo
 
 
-https://app.netlify.com/projects/grabnext1/deploys
+https://grabnext1.netlify.app/
 
 ## 😎 Features
 
