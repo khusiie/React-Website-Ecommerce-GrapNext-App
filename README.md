@@ -32,7 +32,7 @@ From your command line, first clone this repo:
 
 ```
 # Clone this repository
-$
+$ https://github.com/khusiie/React-Website-Ecommerce-GrapNext-App
 
 # Go into the repository
 $ cd 
